@@ -12,6 +12,7 @@ test
 ```
 
 ## Gameplay
-C:\Users\Admin\Desktop\New folder (2)\console-games-main\Gameplay
+![pong_gameplay](https://user-images.githubusercontent.com/94553590/207577765-4ba2789f-32ea-4567-b790-61d80a9790cb.gif)
+
 
 
