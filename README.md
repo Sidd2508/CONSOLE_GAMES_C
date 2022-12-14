@@ -11,9 +11,7 @@ gcc main.c -o test
 test
 ```
 
-
-
 ## Gameplay
-
+C:\Users\Admin\Desktop\New folder (2)\console-games-main\Gameplay
 
 
